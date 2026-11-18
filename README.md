@@ -23,5 +23,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
