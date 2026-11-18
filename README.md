@@ -14,6 +14,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
+| [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@
 | [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0203-remove-linked-list-elements) |
+| [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -58,9 +60,11 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
+| [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
+| [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
