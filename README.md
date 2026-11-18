@@ -44,4 +44,16 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
