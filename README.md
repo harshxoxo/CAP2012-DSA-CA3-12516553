@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
 | [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0704-binary-search) |
+| [0946-validate-stack-sequences](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0946-validate-stack-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
+| [0946-validate-stack-sequences](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
 | [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
