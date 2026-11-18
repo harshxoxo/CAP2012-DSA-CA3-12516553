@@ -14,6 +14,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
 | [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
@@ -59,6 +61,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0225-implement-stack-using-queues) |
 | [0946-validate-stack-sequences](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0946-validate-stack-sequences) |
 ## Design
@@ -85,4 +88,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
