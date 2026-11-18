@@ -25,6 +25,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
