@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
