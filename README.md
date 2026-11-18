@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
 | [0641-design-circular-deque](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0704-binary-search) |
@@ -72,5 +73,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0054-spiral-matrix) |
 | [0946-validate-stack-sequences](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0946-validate-stack-sequences) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
