@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshxoxo/CAP2012-DSA-CA3-12516553/tree/master/0203-remove-linked-list-elements) |
